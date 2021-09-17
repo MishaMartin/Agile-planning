@@ -1,0 +1,182 @@
+﻿Part 1
+
+
+User Personas
+1. Ashley - Tech engineer who works from home with little time to cook for themselves
+2. Jordan - Executive Director at Community Action Services in Provo
+3. Mark - Humanities Professor at UVU 
+
+
+  
+
+
+
+“Ashley”
+
+
+AGE: 28
+Gender: Non-Binary
+LOCATION: San Francisco, CA
+RELATIONSHIP: Single, no kids
+PERSONALITY: Ambitious, Hardworking, Caring, Empathetic, Adventurous
+OCCUPATION: Engineer in Technology Industry
+
+
+Bio
+Ashley thoroughly enjoys their job and work environment at home. They do not like to stop their work to make lunch and so they order lunch everyday. They enjoy healthier options and primarily enjoy sandwiches and pizza places. As they are not a picky eater, they are open to new restaurants and experiences to be delivered to their door.
+
+
+Food Ordering Habits
+How often they purchase food rather than cook: Every Day
+Wanting to discover new restaurants in the area: Yes
+Biggest factor when deciding on ordering food: Healthy Options
+How much they are willing to spend on sandwich meal: $15 or less
+Most frequent restaurant or take out meal type: Pizza or sandwich place
+
+
+Environment
+Do you work from home or office: Home
+
+
+What they want in the app
+Choosing what food they eat: 4
+Schedule regular food delivery: 4
+Discover new restaurants: 5
+Are you a picky eater: no
+
+
+  
+
+
+
+“Jordan”
+
+
+AGE: 33
+Gender: Male
+LOCATION: Provo, Utah
+RELATIONSHIP: Married, 1 kid
+PERSONALITY: Ambitious, Hardworking, Caring, Empathetic
+OCCUPATION: Executive Director in the Non-profit Industry
+
+
+Bio
+Jordan likes to get as much done at work as possible so he has more time at home with his family. A lunch order a few times a week allows him to do that. His passion is health and fitness. He will always opt for quality, healthy food.
+
+
+Food Ordering Habits
+How often they purchase food rather than cook: 2-3 times per week
+Wanting to discover new restaurants in the area: Yes
+Biggest factor when deciding on ordering food: Quality/ type of food
+How much they are willing to spend on sandwich meal: $15 or less
+Most frequent restaurant or take out meal type: Salad/ Health focused restaurants
+
+
+Environment
+Do you work from home or office: In office
+
+
+What they want in the app
+Choosing what food they eat: 5
+Schedule regular food delivery: 4
+Discover new restaurants: 5
+Are you a picky eater: 3
+
+
+  
+
+
+
+“Mark”
+
+
+AGE: 48
+Gender: Male
+LOCATION: Orem, Utah
+RELATIONSHIP: Single, no kids
+PERSONALITY: Scholarly, Rigid, Productive, No-nonsense
+OCCUPATION: Humanities Professor at UVU
+
+
+Bio
+Mark is a professor at UVU. He does not buy lunch often as he is not always able to order somewhere that is able to work with his peanut allergy. He also has a number of options to eat on campus if he has to go in but they do not always work well for his food allergies.
+
+
+Food Ordering Habits
+How often they purchase food rather than cook: Once a month
+Wanting to discover new restaurants in the area: Maybe
+Biggest factor when deciding on ordering food: Food Allergies
+How much they are willing to spend on sandwich meal: $15 or less
+Most frequent restaurant or take out meal type: Salad/ Health focused restaurants
+
+
+Environment
+Do you work from home or office: At home
+
+
+What they want in the app
+Choosing what food they eat: 3
+Schedule regular food delivery: 1
+Discover new restaurants: 5
+Are you a picky eater: 3
+
+
+Name of the APP: “Eat Well”
+
+
+Part 2
+
+
+MVP
+Profile creation
+-includes information for your address/delivery location
+-includes business profile for restaurants wanting to sell
+See restaurants
+Search feature- With filters
+List of options at restaurant
+Order button
+Schedule delivery button
+Pay button/feature
+Notification that order has been laced with time of delivery
+
+
+
+
+Business features
+Profile
+Ways to post food
+Ability to attach tags for allergy free food, healthy choices, etc.
+Ways to limit the delivery range
+Ability to receive payment
+Notification of order and delivery time
+
+
+User Stories
+
+
+Restaurants
+* As a restaurant, I want to easily post our options for people to see, so that people know what to order from us.
+* As a restaurant, I want to easily receive notifications about an order that was placed, so that I can deliver their food to them in the allotted time frame.
+* As a restaurant, I want the ability to manage my menu options, so that I can add new menu items or take them away as needed.
+* As a restaurant, I want the ability to add tags or classifications to our food options, so that we show up in people’s searches for specific food.
+* As a restaurant, I want the ability to manage the distance we are able to deliver, so that we are able to fulfill orders in our area.
+* As a restaurant, I want the option to easily receive payment, so that we have money to fund our future orders.
+Customers
+* As a customer, I want the ability to search for new restaurants that will deliver to my location, so that I can try new food.
+* As a customer, I want the ability to schedule my lunch delivery time, so that I can do it when I’m less busy and get my lunch delivered on time. 
+* As a customer, I want a clear list of options at that restaurant so that I can decide what I want quickly and get back to work.
+* As a customer, I want quick delivery, so that I can keep up on my work schedule and not have to worry about lunch.
+* As a customer, I want the option to filter for specific food choices including allergy friendly options, so that my options are easily accessible for me.
+* As a customer, I want the order button to be simple and link to an account with information, so that it doesn’t take as much time from my day to create an order.
+* As a customer, I want the option to create a profile so that restaurants in my area so show up and it’s easier to check out.
+* As a customer, I want an easy to notice pay button, so that I can finish my order and have it delivered easily.
+* As a customer, I want the feedback that my order has been placed and what time it will be delivered, so that I can rest assured that it was processed. 
+
+
+Trello Board Link: https://trello.com/b/poRRDEpo/eat-well
+
+
+Part 3
+
+
+FIGMA Link : https://www.figma.com/file/PkBUjl5rLQdfyili4ICy1x/Eat-Well-App-Design?node-id=0%3A1
